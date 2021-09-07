@@ -1,4 +1,8 @@
-# ASP.NET Core 5.0 Web API + CQRS + MediartR
+# Templates
++ https://github.com/kriasoft/aspnet-starter-kit
++ https://github.com/Dotnet-Boxed/Templates
+
+# ASP.NET Core 5.0 Web API + CQRS + MediartR Examples:
 + Common/Entities/ExternalTool.cs
 + Common/Helper/UriHelper.cs
 + Common/Interfaces/ISmartLiveDBContext.cs
@@ -11,6 +15,8 @@
 + ShopApi/Models/Requests/ExternalToolUpsertAllCommand.cs
 + ShopApi/Models/Responses/ExternalToolModel.cs
 + ShopApi/UnitOfWorks/SmartLiveUnitOfWork.cs
+
+# ASP.NET Core 5.0 Web API + CQRS + MediartR
 + https://github.com/dkreider
 + https://www.codeproject.com/Articles/5262285/Implementing-CQRS-Pattern-with-Vue-js-ASP-NET-Core
 + https://www.ezzylearning.net/tutorial/implement-cqrs-pattern-in-asp-net-core-5
