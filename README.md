@@ -1,4 +1,5 @@
-# Templates
+# ASP.NET Core MVC Templates
++ https://github.com/go2ismail
 + https://github.com/kriasoft/aspnet-starter-kit
 + https://github.com/Dotnet-Boxed/Templates
 
